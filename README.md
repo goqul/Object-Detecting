@@ -1,6 +1,4 @@
-# object detection for Uploaded or Youtube Video
-
-# Yolov4-opencv-python
+# Object detection for Uploaded or Youtube Video using yolov4 opencv-python
 
 Yolov4 object detection using opencv python, its simplest way to run inference on yolo V4
 
