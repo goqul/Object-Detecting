@@ -2,12 +2,6 @@
 
 Yolov4 object detection using opencv python, its simplest way to run inference on yolo V4
 
-## YoloV4 objector Demo Video
-
-https://user-images.githubusercontent.com/66181793/122593546-41e6c980-d07f-11eb-8e18-bcc63d550183.mp4
-
----
-
 Implementation detail available on [_**Darknet**_](https://github.com/pjreddie/darknet)
 
 All the Frozen-Inference graph (pre-trained network) available on Darknet
